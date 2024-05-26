@@ -11,15 +11,15 @@
 <br>
 
 ### Languages and tools
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5/">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/css3/">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript/">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react/">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/node.js/">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/express/_/eee">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/wordpress/">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/php/">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git/">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/github/_/eee">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/visualstudiocode/">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/html5/">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/css3/">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/javascript/">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/react/">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/node.js/">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/express/_/eee">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/wordpress/">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/bootstrap/">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/php/">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/git/">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/github/_/eee">
