@@ -6,4 +6,4 @@
 - Some fun facts: I play guitar 🎸  , I love traveling 🎒, woodworking 🌳 and nature 🏕.
 
 ### You can contact me:
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/eee/_" /><a href="https://www.linkedin.com/in/david-boo">Linkedin</a>
+<a href="https://www.linkedin.com/in/david-boo"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/_/eee" /></a>
