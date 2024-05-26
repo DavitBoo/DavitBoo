@@ -11,12 +11,15 @@
 <br>
 
 ### Languages and tools
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/eee/_">
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/eee/_">
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/eee/_">
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/eee/_">
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/eee/_">
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodejs/eee/_">
-<img height="32" width="32" src="https://cdn.simpleicons.org/wordpress/eee/_">
-<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/eee/_">
-<img height="32" width="32" src="https://cdn.simpleicons.org/php/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/css3/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/node.js/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/express/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/wordpress/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/php/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git/eee/_">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/github/eee/_">
