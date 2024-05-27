@@ -2,7 +2,7 @@
 
 ## Right now I'm working as a Front End developer
 - 📘 I love learning and reading about everything
-- 🌱 Open to do some colaboration. Also learn and teach
+- 🌱 Open to collaborations. Also learning and teaching
 - Some fun facts: I play guitar 🎸  , I love traveling 🎒, woodworking 🌳 and nature 🏕.
 
 ### You can contact me:
