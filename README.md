@@ -33,7 +33,8 @@
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/github/_/eee">
 
 ---
----
+
+<hr>
 
 ### You can contact me:
 <a href="https://www.linkedin.com/in/david-boo"><img height="22" width="22" src="https://cdn.simpleicons.org/linkedin/_/eee" /></a>
