@@ -5,10 +5,6 @@
 - 🌱 Open to collaborations. Also learning and teaching.
 - Some fun facts: I play guitar 🎸, I love traveling 🎒, woodworking 🌳 and nature 🏕.
 
----
-
-### You can contact me:
-<a href="https://www.linkedin.com/in/david-boo"><img height="22" width="22" src="https://cdn.simpleicons.org/linkedin/_/eee" /></a>
 
 ---
 
@@ -37,5 +33,7 @@
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/github/_/eee">
 
 ---
+---
 
-
+### You can contact me:
+<a href="https://www.linkedin.com/in/david-boo"><img height="22" width="22" src="https://cdn.simpleicons.org/linkedin/_/eee" /></a>
