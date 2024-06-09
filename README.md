@@ -1,6 +1,6 @@
-### Hi there, my name is Davit  [[Portfolio]](https://davitboo.github.io/portfolio/)
+## Hi there, my name is Davit  [[Portfolio]](https://davitboo.github.io/portfolio/)
 
-## Right now I'm working as a Web developer
+### Right now I'm working as a Web developer
 - 📘 I love learning and reading about everything.
 - 🌱 Open to collaborations. Also learning and teaching.
 - Some fun facts: I play guitar 🎸, I love traveling 🎒, woodworking 🌳 and nature 🏕.
