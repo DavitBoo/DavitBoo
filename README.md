@@ -12,7 +12,14 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davitboo&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitboo&hide=stars&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitboo&layout=compact&theme=github_dark" alt="Top Langs">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=davitboo&hide=stars&theme=github_dark&show_icons=true" alt="Anurag's GitHub stats">
+  </a>
+</div>
 
 
 ### Languages and tools
