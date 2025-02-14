@@ -23,8 +23,10 @@
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/css3">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/javascript">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/react">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/nextdotjs">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/nodedotjs">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/express/_/eee">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/prisma">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/wordpress">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/bootstrap">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/php">
@@ -36,4 +38,4 @@
 <hr>
 
 ### You can contact me:
-<a href="https://www.linkedin.com/in/david-boo"><img height="22" width="22" src="https://cdn.simpleicons.org/linkedin/_/eee" /></a>
+<a href="https://www.linkedin.com/in/david-boo"><img height="22" width="22" src="https://cdn.simpleicons.org/linkedin/_/eee"/></a>
