@@ -19,12 +19,11 @@
 
 
 ### Languages and tools
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/visualstudiocode/">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/html5/">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/css3/">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/javascript/">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/react/">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/node.js/">
+<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/nodedotjs/">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/express/_/eee">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/wordpress/">
 <img align="left" height="22" width="22" src="https://cdn.simpleicons.org/bootstrap/">
