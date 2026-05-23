@@ -8,7 +8,7 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitboo&layout=compact&theme=github_dark" alt="Top Langs">
   </a>
@@ -19,23 +19,23 @@
 
 
 ### Languages and tools
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/html5">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/css3">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/javascript">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/react">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/nextdotjs/_/eee">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/nodedotjs">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/express/_/eee">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/prisma">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/wordpress">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/bootstrap">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/php">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/git">
-<img align="left" height="22" width="22" src="https://cdn.simpleicons.org/github/_/eee">
+<p>
+  <img height="26" width="26" src="https://cdn.simpleicons.org/html5">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/css3">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/javascript">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/react">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/nextdotjs/_/eee">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/nodedotjs">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/express/_/eee">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/prisma">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/wordpress">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/bootstrap">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/php">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/git">
+  <img height="26" width="26" src="https://cdn.simpleicons.org/github/_/eee">
+</p>
 
 ---
-
-<hr>
 
 ### You can contact me:
 <a href="https://www.linkedin.com/in/david-boo"><img height="22" width="22" src="https://cdn.simpleicons.org/linkedin/_/eee"/></a>
